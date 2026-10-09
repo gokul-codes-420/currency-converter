@@ -1,0 +1,24 @@
+{
+  "name": "world-currency-converter",
+  "version": "1.0.0",
+  "description": "World Currency Converter — Full Stack Web Application",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev": "npm run dev:backend & npm run dev:frontend",
+    "build:frontend": "cd frontend && npm run build",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "exchange-rate",
+    "fintech",
+    "react",
+    "vite",
+    "nodejs",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT"
+}
