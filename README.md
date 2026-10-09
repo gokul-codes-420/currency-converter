@@ -1,5 +1,10 @@
 # World Currency Converter — Full Stack Web Application
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-2ea44f?style=for-the-badge&logo=github)](https://gokul-codes-420.github.io/currency-converter/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/gokul-codes-420/currency-converter)
+
+🔗 **Live Website**: [https://gokul-codes-420.github.io/currency-converter/](https://gokul-codes-420.github.io/currency-converter/)
+
 A modern, professional, minimalist **World Currency Converter** built with **React (Vite)**, **Node.js (Express)**, **MongoDB (Mongoose)**, and real-time exchange rates for **160+ world currencies** powered by **ExchangeRate-API**.
 
 Designed with an understated, premium financial aesthetic inspired by modern fintech applications (Wise, Stripe, Bloomberg) with clean typography, restrained accents, minimal animations, and zero clutter.
